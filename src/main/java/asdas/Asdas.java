@@ -1,0 +1,5 @@
+package asdas;
+
+class Asdas {
+
+}
